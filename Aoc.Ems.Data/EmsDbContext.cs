@@ -6,6 +6,8 @@ namespace Aoc.Ems.Data
 {
     public class EmsDbContext : DbContext
     {
+        public Boolean Initialize { get { Database.EnsureDeleted(); return Database.EnsureCreated(); } }
+
         public DbSet<Applicant> Applicants { get; set; }
         public DbSet<Attendance> Attendances { get; set; }
         public DbSet<Employee> Employees { get; set; }

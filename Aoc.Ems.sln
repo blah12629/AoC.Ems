@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.Ems.Core", "Aoc.Ems.Cor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.Ems.Data", "Aoc.Ems.Data\Aoc.Ems.Data.csproj", "{5731C9F6-4626-4645-9A12-F9B3454F06ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.Ems.Web", "Aoc.Ems.Web\Aoc.Ems.Web.csproj", "{6FB2A9C8-151F-46A5-9F69-7833B57CB1A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{5731C9F6-4626-4645-9A12-F9B3454F06ED}.Release|x64.Build.0 = Release|x64
 		{5731C9F6-4626-4645-9A12-F9B3454F06ED}.Release|x86.ActiveCfg = Release|x86
 		{5731C9F6-4626-4645-9A12-F9B3454F06ED}.Release|x86.Build.0 = Release|x86
+		{6FB2A9C8-151F-46A5-9F69-7833B57CB1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB2A9C8-151F-46A5-9F69-7833B57CB1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB2A9C8-151F-46A5-9F69-7833B57CB1A3}.Debug|x64.ActiveCfg = Debug|x64
+		{6FB2A9C8-151F-46A5-9F69-7833B57CB1A3}.Debug|x64.Build.0 = Debug|x64
+		{6FB2A9C8-151F-46A5-9F69-7833B57CB1A3}.Debug|x86.ActiveCfg = Debug|x86
+		{6FB2A9C8-151F-46A5-9F69-7833B57CB1A3}.Debug|x86.Build.0 = Debug|x86
+		{6FB2A9C8-151F-46A5-9F69-7833B57CB1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB2A9C8-151F-46A5-9F69-7833B57CB1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FB2A9C8-151F-46A5-9F69-7833B57CB1A3}.Release|x64.ActiveCfg = Release|x64
+		{6FB2A9C8-151F-46A5-9F69-7833B57CB1A3}.Release|x64.Build.0 = Release|x64
+		{6FB2A9C8-151F-46A5-9F69-7833B57CB1A3}.Release|x86.ActiveCfg = Release|x86
+		{6FB2A9C8-151F-46A5-9F69-7833B57CB1A3}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

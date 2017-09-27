@@ -6,9 +6,9 @@ namespace Aoc.Ems.Core
     {
         public Int32 Id { get; set; } //schedNo
 
-        public Int32 ApplicantId { get; set; } //appID
+        public Int32? ApplicantId { get; set; } //appID
         public Applicant Applicant { get; set; }
 
-        public DateTime Date { get; set; } //dateofExam
+        public DateTime? Date { get; set; } //dateofExam
     }
 }

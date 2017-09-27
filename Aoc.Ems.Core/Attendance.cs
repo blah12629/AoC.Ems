@@ -7,7 +7,7 @@ namespace Aoc.Ems.Core
     {
         public Int32 Id { get; set; } //attendanceNo
         
-        public Int32 EmployeeId { get; set; } //employeeNo
+        public Int32? EmployeeId { get; set; } //employeeNo
         public Employee Employee { get; set; }
 
         public String Status { get; set; } //attendanceStatu varchar(20)
