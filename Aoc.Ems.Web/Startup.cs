@@ -28,7 +28,7 @@ namespace Aoc.Ems.Web
                 else options.UseSqlServer(Configuration.GetConnectionString("EmsDb"));
             });
         }
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, EmsDbContext emsDbContext)
         {
             if (env.IsDevelopment()) app.UseDeveloperExceptionPage();
             else app.UseExceptionHandler("/Home/Error");
@@ -39,6 +39,7 @@ namespace Aoc.Ems.Web
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+            emsDbContext.Initialize();
         }
     }
 }
