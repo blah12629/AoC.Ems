@@ -1,5 +1,6 @@
 using Aoc.Ems.Core;
 using Microsoft.EntityFrameworkCore;
+using System;
 
 namespace Aoc.Ems.Data
 {

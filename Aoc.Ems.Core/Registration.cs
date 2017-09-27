@@ -8,6 +8,7 @@ namespace Aoc.Ems.Core
         public Int32 Id { get; set; } //regID
         public String LastName { get; set; } //lastName varchar(20)
         public String FirstName { get; set; } //firstName varchar(20)
+        public String MiddleName { get; set; } //middleName varchar(20)
         public String Gender { get; set; } //gender varchar(20)
         public DateTime BirthDate { get; set; } //birthDate
         public String Position { get; set; } //position varchar(20)
