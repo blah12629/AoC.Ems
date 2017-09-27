@@ -2385,11 +2385,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Eo\\Documents\\Aoc.Ems\\Aoc.Ems.Data\\Aoc.Ems.Data.csproj",
+      "projectUniqueName": "c:\\Users\\Eo\\Documents\\Aoc.Ems\\AoC.Ems\\Aoc.Ems.Data\\Aoc.Ems.Data.csproj",
       "projectName": "Aoc.Ems.Data",
-      "projectPath": "c:\\Users\\Eo\\Documents\\Aoc.Ems\\Aoc.Ems.Data\\Aoc.Ems.Data.csproj",
+      "projectPath": "c:\\Users\\Eo\\Documents\\Aoc.Ems\\AoC.Ems\\Aoc.Ems.Data\\Aoc.Ems.Data.csproj",
       "packagesPath": "C:\\Users\\Eo\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Eo\\Documents\\Aoc.Ems\\Aoc.Ems.Data\\obj\\",
+      "outputPath": "c:\\Users\\Eo\\Documents\\Aoc.Ems\\AoC.Ems\\Aoc.Ems.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
