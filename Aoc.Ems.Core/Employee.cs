@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace Aoc.Ems.Core
 {
@@ -11,5 +12,9 @@ namespace Aoc.Ems.Core
         public String Gender { get; set; } //gender varchar(20)
         public String Position { get; set; } //position varchar(20)
         public Byte[] Fingerprint { get; set; } //fingerprint image
+
+        public virtual ICollection<Attendance> Attendances { get; set; }
+        public virtual ICollection<Evaluation> Evaluations { get; set; }
+        public virtual ICollection<User> Users { get; set; }
     }
 }

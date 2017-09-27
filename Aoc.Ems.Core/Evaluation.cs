@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace Aoc.Ems.Core
 {
@@ -10,5 +11,7 @@ namespace Aoc.Ems.Core
         public Employee Employee { get; set; }
 
         public String PerformanceStatus { get; set; } //performanceStatus varchar(20)
+    
+        public virtual ICollection<User> Users { get; set; }
     }
 }

@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace Aoc.Ems.Core
 {
@@ -13,5 +14,7 @@ namespace Aoc.Ems.Core
         
         public Int32 UserLevelId { get; set; } //userLevelID
         public UserLevel UserLevel { get; set; }
+
+        public virtual ICollection<User> Users { get; set; }
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\Eo\Documents\Aoc.Ems\AoC.Ems\Aoc.Ems.Core\bin\Debug\netstandard2.0\Aoc.Ems.Core.deps.json
+C:\Users\Eo\Documents\Aoc.Ems\AoC.Ems\Aoc.Ems.Core\bin\Debug\netstandard2.0\Aoc.Ems.Core.dll
+C:\Users\Eo\Documents\Aoc.Ems\AoC.Ems\Aoc.Ems.Core\bin\Debug\netstandard2.0\Aoc.Ems.Core.pdb
+C:\Users\Eo\Documents\Aoc.Ems\AoC.Ems\Aoc.Ems.Core\obj\Debug\netstandard2.0\Aoc.Ems.Core.csproj.CoreCompileInputs.cache
+C:\Users\Eo\Documents\Aoc.Ems\AoC.Ems\Aoc.Ems.Core\obj\Debug\netstandard2.0\Aoc.Ems.Core.AssemblyInfoInputs.cache
+C:\Users\Eo\Documents\Aoc.Ems\AoC.Ems\Aoc.Ems.Core\obj\Debug\netstandard2.0\Aoc.Ems.Core.AssemblyInfo.cs
+C:\Users\Eo\Documents\Aoc.Ems\AoC.Ems\Aoc.Ems.Core\obj\Debug\netstandard2.0\Aoc.Ems.Core.dll
+C:\Users\Eo\Documents\Aoc.Ems\AoC.Ems\Aoc.Ems.Core\obj\Debug\netstandard2.0\Aoc.Ems.Core.pdb

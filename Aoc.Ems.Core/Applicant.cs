@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace Aoc.Ems.Core
 {
@@ -13,5 +14,9 @@ namespace Aoc.Ems.Core
         public Byte[] Resume { get; set; } //resume
         public Int32 ScheduleNumber { get; set; } //schedNo
         public Int32 ScheduleId { get; set; } //schedID
+
+        public virtual ICollection<ExamDate> ExamDates { get; set; }
+        public virtual ICollection<InterviewSchedule> InterviewSchedules { get; set; }
+        public virtual ICollection<User> Users { get; set; }
     }
 }

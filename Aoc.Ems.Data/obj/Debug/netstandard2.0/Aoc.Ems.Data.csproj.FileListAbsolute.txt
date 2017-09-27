@@ -1,0 +1,3 @@
+C:\Users\Eo\Documents\Aoc.Ems\AoC.Ems\Aoc.Ems.Data\obj\Debug\netstandard2.0\Aoc.Ems.Data.csproj.CoreCompileInputs.cache
+C:\Users\Eo\Documents\Aoc.Ems\AoC.Ems\Aoc.Ems.Data\obj\Debug\netstandard2.0\Aoc.Ems.Data.AssemblyInfoInputs.cache
+C:\Users\Eo\Documents\Aoc.Ems\AoC.Ems\Aoc.Ems.Data\obj\Debug\netstandard2.0\Aoc.Ems.Data.AssemblyInfo.cs
