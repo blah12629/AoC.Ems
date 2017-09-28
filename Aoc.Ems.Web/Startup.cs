@@ -39,7 +39,7 @@ namespace Aoc.Ems.Web
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
-            emsDbContext.Initialize();
+            var initilize = emsDbContext.Initialize;
         }
     }
 }
